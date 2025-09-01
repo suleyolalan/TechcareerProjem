@@ -1,6 +1,6 @@
 #Bölüm3 Mini Proje
 #9.Soru
-"""
+
 ekmek = int(input("Ekmeğin fiyatı :"))
 peynir = int(input("Peynirin fiyatı :"))
 zeytin = int(input("Zeytinin fiyatı :"))
@@ -11,7 +11,7 @@ if toplam_fiyat > 200:
     print("İndirim kazandınız.Ödeyeceğiniz tutar: ",yeni_fiyat)
 else:
     print(toplam_fiyat)
-"""
+
 
 #10.Soru
 yıl = int(input("Hangi klasmandayız öğrenelim. Doğum yılını yazabilir misin? :"))
